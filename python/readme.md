@@ -1,4 +1,4 @@
-#### Video Links
+#### WQU Video Links
 
 - 1.1.1 Basic Programming & Variables - [https://youtu.be/3phV29yvWO8](https://youtu.be/3phV29yvWO8)
 - 1.1.2 Functions - [https://youtu.be/SytwpgZ5k6U](https://youtu.be/SytwpgZ5k6U)
